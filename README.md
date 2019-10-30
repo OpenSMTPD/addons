@@ -7,9 +7,21 @@ the OpenSMTPD project itself does not endorse or support these addons unless sta
 
 Any bug or issue should be taken to the addon developer.
 
+
+# Package maintainers
+
+You should only use this repository as an index to locate addons.
+
+Do not create packages directly from this repository, the structure will change, the submodule may not point to the latest version, this is a commodity repository so there's a central place to know about addons.
+
+
 # Developers
 
 You can have your addons linked to this repository by providing a pull request to add a git submodule.
+
+Make sure you provide a pull request to a working version of your module and maintain it up to date.
+
+Addons that are regularly broken, broken for a long period of time or unmaintained will be unlinked.
 
 
 # Users
