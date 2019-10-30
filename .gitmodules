@@ -1,0 +1,3 @@
+[submodule "filters/filter-rspamd"]
+	path = filters/filter-rspamd
+	url = https://github.com/poolpOrg/filter-rspamd
