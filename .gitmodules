@@ -1,3 +1,6 @@
 [submodule "filters/filter-rspamd"]
 	path = filters/filter-rspamd
 	url = https://github.com/poolpOrg/filter-rspamd
+[submodule "filters/filter-senderscore"]
+	path = filters/filter-senderscore
+	url = https://github.com/poolpOrg/filter-senderscore
