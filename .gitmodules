@@ -4,3 +4,6 @@
 [submodule "filters/filter-senderscore"]
 	path = filters/filter-senderscore
 	url = https://github.com/poolpOrg/filter-senderscore
+[submodule "filters/filter-greylist"]
+	path = filters/filter-greylist
+	url = https://github.com/poolpOrg/filter-greylist.git
